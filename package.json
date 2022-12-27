@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "jquery": "^3.6.2",
+    "mongodb": "^4.12.1",
+    "mongoose": "^6.8.0",
+    "node": "^19.3.0",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
+  },
+  "name": "myvertodoapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
